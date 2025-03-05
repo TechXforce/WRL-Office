@@ -23,7 +23,7 @@ msgspec==0.18.6
 mysqlclient==2.2.7
 PyMySQL==1.1.1
 python-magic==0.4.27
-python-magic-bin==0.4.14
+python-magic-bin
 SQLAlchemy==2.0.32
 typing_extensions==4.12.2
 Werkzeug==3.1.3
